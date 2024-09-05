@@ -1,7 +1,7 @@
 # OpenGL ES Window
 OpenGL ES window written in C++
 
-![](./screenshots/opengl_window.webp)
+![](./screenshots/opengl_es_window.png)
 
 ## Dependencies
 
