@@ -1,5 +1,5 @@
 # OpenGL ES Window
-OpenGL ES window written in C++
+OpenGL ES window written in C++. This program was tested on a Raspberry Pi 3 Model B.
 
 ![](./screenshots/opengl_es_window.png)
 
